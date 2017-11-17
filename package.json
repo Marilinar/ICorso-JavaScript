@@ -4,7 +4,6 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    
     "start": "http-server -p 8080 -s",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -19,6 +18,8 @@
   },
   "homepage": "https://github.com/Marilinar/ICorso-JavaScript#readme",
   "dependencies": {
-    "http-server": "^0.10.0"
+    "es6-promise": "^4.1.1",
+    "http-server": "^0.10.0",
+    "whatwg-fetch": "^2.0.3"
   }
 }
