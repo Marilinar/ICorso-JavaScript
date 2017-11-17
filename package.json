@@ -1,0 +1,24 @@
+{
+  "name": "corso-javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    
+    "start": "http-server -p 8080 -s",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Marilinar/ICorso-JavaScript.git"
+  },
+  "author": "MeMedesima",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Marilinar/ICorso-JavaScript/issues"
+  },
+  "homepage": "https://github.com/Marilinar/ICorso-JavaScript#readme",
+  "dependencies": {
+    "http-server": "^0.10.0"
+  }
+}
